@@ -1,6 +1,6 @@
 # TwilioBugReproduction
 
-Contains a reproduction for a bug in the Twilio Azure webjobs 3.0.0 stable release.
+Contains a reproduction for a bug in the Twilio Azure webjobs 3.0.0 stable release. Issue raised here - https://github.com/Azure/azure-webjobs-sdk-extensions/issues/502
 
 This solution has 2 projects - TwilioBugReproduction.Working and TwilioBugReproduction.Failing. These prjects are identical except for the NuGet packages in use.
 
